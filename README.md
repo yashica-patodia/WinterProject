@@ -18,7 +18,7 @@ I implemented a multi-level scrapper  which extracts and scrapes data from this 
 ```html
    python -m pip install requests
 ```
- ### Os is python's standard library so no need to download it.
+ ### Os   is python's standard library so no need to download it.
 ## How To Run 
 
 ### For extracting .pdf files run the 2020_pdf file in the console and press Enter.
