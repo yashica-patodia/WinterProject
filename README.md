@@ -2,7 +2,7 @@
 
 ## Description
 
-I implemented a multi-level scrapper  which extracts and scrapes data from this [page](http://www.commonlii.org/resources/221.html) .This uses beautiful soup for parsing the data.Same can also be implemented by using selenium.
+I implemented a multi-level scrapper  which extracts and scrapes data from this [page](http://www.commonlii.org/resources/221.html) .This uses beautiful soup for parsing the data and requests module in python to send  http requests to the web page .This method is capable of extracting .txt and .html files.But for .pdf files I used javascript to run in the console window which automatically downloads the .pdf files .
 
 ## How To Use
 
